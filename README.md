@@ -1,1 +1,3 @@
-# fpp-utility
+# FightPlannerPackage Utility (FPP Utility)
+
+FPP Utility is a program for making FightPlannerPackage file used for making mods pack or backup all mods to transfer into an another PC etc...
